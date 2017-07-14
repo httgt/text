@@ -9,7 +9,7 @@ public class hello {
          */
     }
     /**
-     * widifjsdfhdsfhsdfhjh
+     * 这是代码注释
      */
 }
 
