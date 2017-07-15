@@ -8,6 +8,7 @@ public class hello {
     }
     /**
      * 这是代码注释
-     */
+/*hello world
+hello world**/     */
 }
 
